@@ -1,0 +1,250 @@
+<div className="box2 bg-white p-5">
+        {/* Featured Header */}
+        <div className="featured-header flex justify-between pb-2 mb-5 border-b border-gray-300">
+          <h2 className="text-[25px] font-bold text-gray-600">
+            Featured Videos
+          </h2>
+          <a href="atWork.htm" className="text-[#3366CC] font-semibold">
+            See More Featured Videos
+          </a>
+        </div>
+
+        {/* First Video */}
+        <div className="video-item2 flex mb-5 pb-5 border-b border-gray-300">
+          <a
+            href="https://youtube.com/shorts/coeZgtThYTM?feature=share"
+            target="_blank"
+            className="block"
+          >
+            <img
+              src="/assets/vid1.png"
+              alt="old-wish"
+              className="w-[120px] h-[90px] mr-5 border border-black/20"
+            />
+          </a>
+          <div className="video-details flex-1">
+            <a
+              href="https://youtube.com/shorts/coeZgtThYTM?feature=share"
+              className="text-[#3366CC] font-bold text-lg block"
+            >
+              The lights go out, and I can't be saved, tides that I tried to
+              swim against
+            </a>
+            <span className="text-sm text-gray-500 block mt-1">00:48</span>
+            <p className="text-sm text-gray-800 mt-2">
+              Here’s to the crazy ones, the misfits, the rebels, the
+              troublemakers, the round pegs in the square holes… the ones who
+              see things differently — they’re not fond of rules…{" "}
+              <a href="atWork.htm" className="text-[#3366CC]">
+                (more)
+              </a>
+            </p>
+            <div className="video-meta flex gap-5 text-gray-600 mt-2">
+              <span>
+                From:{" "}
+                <a href="atWork.htm" className="text-[#3366CC]">
+                  Suhasss
+                </a>
+              </span>
+              <span>Views: [unlisted]</span>
+              <span className="text-red-600">★★★★★</span>
+              <span>
+                More in{" "}
+                <a href="atWork.htm" className="text-[#3366CC]">
+                  Provocative and thoughtful
+                </a>
+              </span>
+            </div>
+          </div>
+        </div>
+
+        {/* Second Video */}
+        <div className="video-item2 flex mb-5 pb-5 border-b border-gray-300">
+          <a
+            href="https://youtu.be/tMFAcPtoPo0"
+            target="_blank"
+            className="block"
+          >
+            <img
+              src="/assets/vid2.png"
+              alt="Gobbl Airdrop"
+              className="w-[120px] h-[90px] mr-5 border border-black/20"
+            />
+          </a>
+          <div className="video-details flex-1">
+            <a
+              href="https://youtu.be/tMFAcPtoPo0"
+              className="text-[#3366CC] font-bold text-lg block"
+            >
+              Figuring out the new Gobbl airdrop
+            </a>
+            <span className="text-sm text-gray-500 block mt-1">00:18</span>
+            <p className="text-sm text-gray-800 mt-2">
+              FEATURED? Awesome! But if you want a better representation of what
+              we do, check out "Gobble.io" or "Foodfury". THANKS{" "}
+              <a href="atWork.htm" className="text-[#3366CC]">
+                (more)
+              </a>
+            </p>
+            <div className="video-meta flex gap-5 text-gray-600 mt-2">
+              <span>
+                From:{" "}
+                <a href="atWork.htm" className="text-[#3366CC]">
+                  Gobbl
+                </a>
+              </span>
+              <span>Views: 628</span>
+              <span className="text-red-600">★★★★☆</span>
+              <span>
+                More in{" "}
+                <a href="atWork.htm" className="text-[#3366CC]">
+                  Gaming & web3
+                </a>
+              </span>
+            </div>
+          </div>
+        </div>
+
+        {/* Third Video */}
+        <div className="video-item2 flex mb-5 pb-5 border-b border-gray-300">
+          <a
+            href="https://youtu.be/UIjlJ58kPJA"
+            target="_blank"
+            className="block"
+          >
+            <img
+              src="/assets/vid3.png"
+              alt="Fixing loneliness"
+              className="w-[120px] h-[90px] mr-5 border border-black/20"
+            />
+          </a>
+          <div className="video-details flex-1">
+            <a
+              href="https://youtu.be/UIjlJ58kPJA"
+              className="text-[#3366CC] font-bold text-lg block"
+            >
+              "You look lonely; I can fix that"
+            </a>
+            <span className="text-sm text-gray-500 block mt-1">00:36</span>
+            <p className="text-sm text-gray-800 mt-2">
+              Playing foodfury in between reps got to be so relaxing, until an
+              opponent steals my delivery 😢 Guess they need to be scared cos I
+              got that pump in me now!{" "}
+              <a href="https://youtu.be/UIjlJ58kPJA" className="text-[#3366CC]">
+                (more)
+              </a>
+            </p>
+            <div className="video-meta flex gap-5 text-gray-600 mt-2">
+              <span>
+                From:{" "}
+                <a href="atWork.htm" className="text-[#3366CC]">
+                  0xTsurea
+                </a>
+              </span>
+              <span>Views: 102</span>
+              <span className="text-red-600">★★★★★</span>
+              <span>
+                More in{" "}
+                <a href="atWork.htm" className="text-[#3366CC]">
+                  Workout & chill
+                </a>
+              </span>
+            </div>
+          </div>
+        </div>
+
+        {/* Fourth Video */}
+        <div className="video-item2 flex mb-5 pb-5 border-b border-gray-300">
+          <a
+            href="https://youtu.be/RJZW7LHiJ3Y"
+            target="_blank"
+            className="block"
+          >
+            <img
+              src="/assets/vid4.png"
+              alt="Foodfury game"
+              className="w-[120px] h-[90px] mr-5 border border-black/20"
+            />
+          </a>
+          <div className="video-details flex-1">
+            <a
+              href="https://youtu.be/RJZW7LHiJ3Y"
+              className="text-[#3366CC] font-bold text-lg block"
+            >
+              How to play the new Foodfury game
+            </a>
+            <span className="text-sm text-gray-500 block mt-1">00:27</span>
+            <p className="text-sm text-gray-800 mt-2">
+              Embark on a culinary adventure in FoodFury! Strategically match
+              ingredients to create delectable dishes and satisfy hungry
+              customers. Master combos, unlock power-ups, and become the
+              ultimate food-matching champion!{" "}
+              <a href="atWork.htm" className="text-[#3366CC]">
+                (more)
+              </a>
+            </p>
+            <div className="video-meta flex gap-5 text-gray-600 mt-2">
+              <span>
+                From:{" "}
+                <a href="atWork.htm" className="text-[#3366CC]">
+                  Onerare.io
+                </a>
+              </span>
+              <span>Views: 299</span>
+              <span className="text-red-600">★★☆☆☆</span>
+              <span>
+                More in{" "}
+                <a href="atWork.htm" className="text-[#3366CC]">
+                  Gaming & web3
+                </a>
+              </span>
+            </div>
+          </div>
+        </div>
+        <div className="video-item2 flex mb-5 pb-5 border-b border-gray-300">
+          <a
+            href="https://youtu.be/C4HNm9QLfdM"
+            target="_blank"
+            className="block"
+          >
+            <img
+              src="/assets/vid5.png"
+              alt="Adulting is hard"
+              className="w-[120px] h-[90px] mr-5 border border-black/20"
+            />
+          </a>
+          <div className="video-details flex-1">
+            <a
+              href="https://youtu.be/C4HNm9QLfdM"
+              className="text-[#0073e6] font-bold text-lg block"
+            >
+              Adulting is hard
+            </a>
+            <span className="text-sm text-gray-500 block mt-1">01:04</span>
+            <p className="text-sm text-gray-800 mt-2">
+              Sometimes, all you need is a break. A moment to forget the noise,
+              a taste to transport you. Foodfury becomes the getaway for that
+              stress to relief.
+              <a href="atWork.htm" className="text-[#0073e6] ml-1">
+                (more)
+              </a>
+            </p>
+            <div className="video-meta flex gap-5 text-gray-600 mt-2">
+              <span>
+                From:{" "}
+                <a href="atWork.htm" className="text-[#0073e6]">
+                  0xSuhass
+                </a>
+              </span>
+              <span>Views: 90</span>
+              <span className="text-red-600">★★★☆☆</span>
+              <span>
+                More in{" "}
+                <a href="atWork.htm" className="text-[#0073e6]">
+                  Thoughts & Life
+                </a>
+              </span>
+            </div>
+          </div>
+        </div>
+      </div>
